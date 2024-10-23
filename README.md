@@ -1,6 +1,6 @@
 🚀 C# EĞİTİM KAMPI PROJELERİ
 
-Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 projeyi içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu.
+Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım projeleri içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu.
 
 📍 Proje 1: Yazdırma Komutları
 Temel yazdırma komutları (Console.WriteLine, Console.Write) ile kullanıcıya bilgi iletme yöntemlerini öğrendim. Menü yapılarını kullanarak temel çıktılar oluşturdum.
